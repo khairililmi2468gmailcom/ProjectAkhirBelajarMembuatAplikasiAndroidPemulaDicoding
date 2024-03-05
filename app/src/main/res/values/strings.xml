@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kopi Gayo Nusantara</string>
+    <string name="desc">"For fans of arabica coffee with a dark chocolate flavor profile, this product can be an option. In addition to the dark chocolate note, you will also taste notes of brown sugar and orange zest, resulting in an interesting blend of flavors. You can enjoy this arabica coffee with various brewing methods. For V 60 and Vietnamese drip, you can choose a medium grind. For french press and cold brew, choose a coarse grind. For moka pot and espresso enthusiasts, you can choose a fine grind."</string>
+    <string name="lipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="bio">\"Hidup Sederhana dan membuat orang lain bahagia\"</string>
+    <string name="colon">&#160; : &#160;</string>
+    <string name="blood_type">Type</string>
+    <string name="birthday">Expired</string>
+    <string name="year">Items</string>
+    <string name="height">Weight</string>
+    <string name="profile">Profile</string>
+    <string name="info">Info</string>
+    <string name="ok">OK</string>
+    <string name="desc_app">Apa kabar semuanya! Aplikasi Daftar Kopi ini adalah aplikasi untuk menampilkan list dan detail jenis dari Kopi Gayo.</string>
+    <string name="background">Background</string>
+    <string name="personality">Personality</string>
+    <string name="video">Video</string>
+    <string name="song">Song</string>
+    <string name="_0_00">0.00</string>
+    <string name="slash">/</string>
+    <string name="link_github">Github</string>
+    <string name="email">khairililmi2468@gmail.com</string>
+    <string name="nama">Khairil Ilmi</string>
+    <string name="references">References</string>
+</resources>

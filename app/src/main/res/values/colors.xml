@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8D6E3D</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteHumble">#548B8484</color>
+    <color name="ras">#977E58</color>
+    <color name="ras_secondary">#BCBCBC</color>
+    <color name="arabika">#ED7D95</color>
+    <color name="arabika_secondary">#FAD8DF</color>
+    <color name="robusta">#E7D600</color>
+    <color name="robusta_secondary">#F8F3B3</color>
+    <color name="rasberi">#D81C2F</color>
+    <color name="rasberi_secondary">#F3BBC1</color>
+    <color name="atu">#FF5800</color>
+    <color name="atu_secondary">#FFCDB3</color>
+    <color name="takengen">#84C36E</color>
+    <color name="takengen_secondary">#DAEDD4</color>
+    <color name="bener">#9CA5B9</color>
+    <color name="bener_secondary">#E1E4EA</color>
+    <color name="meriah">#A664A0</color>
+    <color name="meriah_secondary">#E4D1E3</color>
+    <color name="gayo">#01B7ED</color>
+    <color name="gayo_secondary">#B3EAFA</color>
+    <color name="kopi">#485EC6</color>
+    <color name="kopi_secondary">#C8CFEE</color>
+</resources>
